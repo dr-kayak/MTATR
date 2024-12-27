@@ -5,7 +5,7 @@ import csv
 import os
 
 # File path for technicians CSV
-CSV_FILE_PATH = r"\\srvfileshare\Departments\9360 - Information Technology\Databases\TicketAssignment\TechDB.csv"
+CSV_FILE_PATH = 
 
 
 # List to store technician data
@@ -182,7 +182,7 @@ def show_technicians():
 def display_about_info():
     about_info = """
     Malachi's Totally Awesome Ticket Randomizer
-    Version 1.0
+    Version 1.2
     Developed by Malachi McRee
     This application randomly assigns tickets to technicians 
     based on their workload.
